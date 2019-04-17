@@ -16,7 +16,7 @@
   1. Left-ALT - Switch Teams during placement.
   2. 1-5 on the keyboard to select different zombies(1 meaning least deadly, 5 most deadly)
  
- Instalation Instructions:
+ Installation Instructions:
  
   1. Navigate to your game on Steam, click  properties, then got to local files.
   2. Click Browse Local Files...
