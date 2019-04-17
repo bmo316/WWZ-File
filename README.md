@@ -13,8 +13,8 @@
  
  Controls:
  
- Left-ALT - Switch Teams during placement.
- 1-5 on the keyboard to select different zombies(1 meaning least deadly, 5 most deadly)
+  1. Left-ALT - Switch Teams during placement.
+  2. 1-5 on the keyboard to select different zombies(1 meaning least deadly, 5 most deadly)
  
  Instalation Instructions:
  
