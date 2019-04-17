@@ -1,6 +1,13 @@
 # WWZ-File
 # A Mod For The Game Totally Accurate Battle Simulator
 
+ Current Version 1.4
+ 
+ Planned Featurs...
+  Units get infected and turn into zombies
+  More civilians
+  More!
+
  Units it replaces...
   1. Hafling(Civilian)
   2. Squire(Riot Control Officer 1)
