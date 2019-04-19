@@ -3,7 +3,7 @@
 
  Current Version 1.4
  
- Planned Featurs...
+ Planned Features...
   Units get infected and turn into zombies
   More civilians
   More!
